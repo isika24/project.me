@@ -1,2 +1,2 @@
 # project.me
-this a project for ordering foog
+this a project for ordering electronics
